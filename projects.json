@@ -1,0 +1,20 @@
+[
+  {
+    "name": "kick-at-moving-goal",
+    "live": "kick-at-moving-goal.netlify.app",
+    "git": "https://github.com/davedawita/Kick-at-Moving-Goal.git",
+    "image": "https://i.imgur.com/8p1lTul.png"
+  },
+  {
+    "name": "dt-market-place",
+    "live": "https://dt-market-place-bbc45a1a6082.herokuapp.com/items/productslist",
+    "git": "https://github.com/davedawita/DT-Market-Place.git",
+    "image": "https://i.imgur.com/pjcXVMq.png"
+  },
+  {
+    "name": "manage-project-app",
+    "live": "https://manage-project-app.netlify.app",
+    "git": "https://github.com/davedawita/ManageProject---Front-End.git",
+    "image": "https://i.imgur.com/fFgw3i7.png"
+  }
+]
