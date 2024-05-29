@@ -1,7 +1,7 @@
 [
   {
     "name": "kick-at-moving-goal",
-    "live": "kick-at-moving-goal.netlify.app",
+    "live": "https://kick-at-moving-goal.netlify.app",
     "git": "https://github.com/davedawita/Kick-at-Moving-Goal.git",
     "image": "https://i.imgur.com/8p1lTul.png"
   },
