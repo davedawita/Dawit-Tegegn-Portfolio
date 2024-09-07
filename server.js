@@ -5,6 +5,7 @@ const cors = require("cors");
 // Import JSON files
 const projects = require("./projects.json");
 const about = require("./about.json");
+const resume = require('./resume.json')
 
 // Create our app object
 const app = express();
@@ -28,6 +29,12 @@ app.get("/about", (req, res) => {
   // send projects via JSON
   res.json(about);
 });
+
+//route for retrieving resume
+app.get("/resume", (req,res) => {
+  //send resume via JSON
+  res.json(resume)
+})
 
 //declare a variable for our port number
 const PORT = process.env.PORT || 4000;
