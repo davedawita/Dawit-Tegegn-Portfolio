@@ -1,20 +1,37 @@
-[
-  {
-    "name": "kick-at-moving-goal",
-    "live": "kick-at-moving-goal.netlify.app",
-    "git": "https://github.com/davedawita/Kick-at-Moving-Goal.git",
-    "image": "https://i.imgur.com/8p1lTul.png"
-  },
-  {
-    "name": "dt-market-place",
-    "live": "https://dt-market-place-bbc45a1a6082.herokuapp.com/items/productslist",
-    "git": "https://github.com/davedawita/DT-Market-Place.git",
-    "image": "https://i.imgur.com/pjcXVMq.png"
-  },
+[  
   {
     "name": "manage-project-app",
     "live": "https://manage-project-app.netlify.app",
-    "git": "https://github.com/davedawita/ManageProject---Front-End.git",
+    "git-front-end": "https://github.com/davedawita/ManageProject---Front-End.git",
+    "git-back-end": "https://github.com/davedawita/ManageProject---Back-End.git",
     "image": "https://i.imgur.com/fFgw3i7.png"
+  },
+  {
+    "name": "dt-market-place",
+    "live": "https://dt-market-place-fc76b5465f9f.herokuapp.com/items",
+    "git-front-end": "https://github.com/davedawita/DT-Market-Place.git",
+    "git-back-end": "Backend done by Mongodb. No separate github repository.",
+    "image": "https://i.imgur.com/pjcXVMq.png"
+  },
+  {
+    "name": "kick-at-moving-goal",
+    "live": "https://kick-at-moving-goal.netlify.app/",
+    "git-front-end": "https://github.com/davedawita/Kick-at-Moving-Goal.git",
+    "git-back-end": "N/A",
+    "image": "https://i.imgur.com/8p1lTul.png"
+  },
+  {
+    "name": "perslib-dawitu",
+    "live": "https://perslib-dawitu.netlify.app/",
+    "git-front-end": "https://github.com/davedawita/PersLib---FrontEnd-N.git",
+    "git-back-end": "https://github.com/davedawita/PersLib---BackEnd---N.git",
+    "image": "https://i.imgur.com/8p1lTul.png"
+  },
+  {
+    "name": "dawit-blog",
+    "live": "https://dawit-blog.netlify.app/",
+    "git-front-end": "https://github.com/davedawita/dawit-blog.git",
+    "git-back-end": "https://github.com/davedawita/Blog_App_API.git",
+    "image": "https://imgur.com/a/j8hlYlq"
   }
 ]
